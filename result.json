@@ -1,0 +1,36 @@
+{
+	"10.100.47.169:22": [
+		{
+			"command": "echo hello!",
+			"return status": "0",
+			"time": "205.4499ms"
+		},
+		{
+			"command": "ls",
+			"return status": "0",
+			"time": "210.4328ms"
+		},
+		{
+			"command": "435",
+			"return status": "127",
+			"time": "239.3655ms"
+		}
+	],
+	"10.100.47.76:22": [
+		{
+			"command": "cephmgmtclient list-soft-g",
+			"return status": "2",
+			"time": "2.44928s"
+		},
+		{
+			"command": "cephmgmtclient get-license",
+			"return status": "0",
+			"time": "2.9025975s"
+		},
+		{
+			"command": "cephmgmtclient list-soft-version",
+			"return status": "0",
+			"time": "3.0512063s"
+		}
+	]
+}

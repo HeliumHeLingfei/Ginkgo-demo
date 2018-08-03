@@ -1,0 +1,3 @@
+cephmgmtclient list-soft-version
+cephmgmtclient list-soft-g
+cephmgmtclient get-license

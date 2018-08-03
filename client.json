@@ -1,0 +1,20 @@
+{
+    "Clients": [
+        {
+            "IP": "10.100.47.76",
+            "Port": "22",
+            "Username": "root",
+            "Password": "1234567890",
+            "Timeout": 5000,
+            "CmdFile": "test.1.txt"
+        },
+        {
+            "IP": "10.100.47.169",
+            "Port": "22",
+            "Username": "root",
+            "Password": "1234567890",
+            "Timeout": 5000,
+            "CmdFile": "test.txt"
+        }
+    ]
+}
